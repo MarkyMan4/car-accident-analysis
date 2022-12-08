@@ -1,0 +1,1 @@
+download file from here and put in <code>data</code> https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
