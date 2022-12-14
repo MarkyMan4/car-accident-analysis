@@ -161,3 +161,4 @@ cython_debug/
 
 # file too big for github
 US_Accidents_Dec21_updated.csv
+clean.csv
